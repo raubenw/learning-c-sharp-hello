@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HelloWorld</name>
+    </assembly>
+    <members>
+        <member name="M:HelloWorld.Program.Main(System.String[])">
+            <summary>
+            This is a C# Learning introducion
+            </summary>
+            <param name='args'>An array of String arguments from the command line</param>
+            <returns>
+            Does not return anything
+            </returns>
+        </member>
+    </members>
+</doc>
